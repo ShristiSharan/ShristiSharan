@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHRISTI SHARAN</h1>
-<h3 align="center">AI/ML & Data Science Enthusiast!!</h3>
+<h3 align="center">Full Stack Developer & AI/ML - Data Science Enthusiast!!</h3>
 
 # 💫 About Me:
 🔭 I’m  working on Object Detection/ Debugging_my_life<br><br>🌱 I’m currently learning  ML Pipelines and Deployment <br><br>💬 Ask me about Image processing, DSA or Competitive Programming<br><br>📫 How to reach me shristisharan05@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/1CFqtgjwfuCblUKJ4HsHlLbs3rRPIbUeB?usp=sharing<br><br>⚡ Fact : Keep Exploring & Keep Growing
